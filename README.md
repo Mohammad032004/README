@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad
+# 👋 Hi, I'm Irfan Ansari
 
 🚀 Computer Science Student | 💻 Full Stack Developer | 🤖 AI Enthusiast  
 
